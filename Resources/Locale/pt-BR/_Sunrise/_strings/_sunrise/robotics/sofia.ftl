@@ -1,0 +1,11 @@
+sofia-installed = Atividade neural detectada.
+sofia-off = Atividade neural não detectada.
+sofia-still-searching = Processo de desmembramento neural sintético em andamento...
+sofia-searching = Iniciando processo de desmembramento neural sintético...
+sofia-role-name = Cérebro robótico do sindicato
+sofia-role-description = Sirva aos membros do sindicato.
+sofia-wipe-device-verb-text = Apagar o cérebro
+sofia-wiped-device = A atividade neural foi interrompida.
+sofia-stop-searching-verb-text = Parar a busca
+sofia-stopped-searching = O desmembramento neural foi interrompido.
+sofia-slot-component-slot-name-brain = Cérebro

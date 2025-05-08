@@ -1,0 +1,2 @@
+revenant-lock-name = Sobrecarga dos Portões
+revenant-lock-desc = Sobrecarga os portões próximos, forçando-os a mudar para o modo de bloqueio. Ao usá-lo, você se torna vulnerável a ataques por um longo período de tempo.

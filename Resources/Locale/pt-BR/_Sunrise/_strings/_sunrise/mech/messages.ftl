@@ -1,0 +1,10 @@
+mech-message-hello = Piloto detectado. Ativando todos os sistemas.
+mech-message-goodbye = Piloto deixou a cabine. Mudando para modo de espera.
+mech-message-enable-light = Ativando iluminação.
+mech-message-disable-light = Desativando iluminação.
+mech-message-alert_50 = Danos moderados no casco detectados. Recomendado realizar diagnóstico.
+mech-message-alert-25 = Danos severos no casco detectados. Recomendado realizar reparo.
+mech-message-alert-5 = Danos críticos no casco detectados. Recomendado evacuar o piloto.
+mech-message-insert-equipment = Instalação de módulo detectada. Inicializando.
+mech-message-remove-equipment = Remoção de módulo detectada. Desinicializando.
+mech-message-cycle-equipment = Alternando módulo ativo.

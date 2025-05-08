@@ -1,0 +1,12 @@
+reagent-name-disease-blood = Sangue turvo
+reagent-description-disease-bad-physical-desc = Nojento
+reagent-description-disease-strange-physical-desc = Estranho
+mixing-verb-vaccinator = Vacinador
+reagent-description-disease-blood = Líquido muito estranho. Lembra sangue
+reagent-name-disease-blood-reagent = Líquido infectado
+reagent-name-notready-vaccine = Virusin
+reagent-description-notready-vaccine = Este líquido nojento não só não vai curá-lo, como também o infectará. Muito perigoso.
+reagent-name-vaccine = Antivírusin
+reagent-description-vaccine = Facilmente pode livrá-lo das garras do vírus! Não interfere com o sistema imunológico.
+reagent-name-vaccine-plus = Antivírusin Plus
+reagent-description-vaccine-plus = Concederá imunidade contra o vírus!

@@ -1,0 +1,12 @@
+ent-SurgeryStepExposeNerves = Expor os nervos
+    .desc = { ent-SurgeryStepBase.desc }
+ent-SurgeryStepExposeBloodVessels = Expor os vasos sanguíneos
+    .desc = { ent-SurgeryStepBase.desc }
+ent-SurgeryLimbAttachmentStep = Anexar o membro
+    .desc = { ent-SurgeryStepBase.desc }
+ent-SurgeryStepRejoinNerves = Reconectar os nervos
+    .desc = { ent-SurgeryStepBase.desc }
+ent-SurgeryStepRejoinBloodVessels = Reconectar os vasos sanguíneos
+    .desc = { ent-SurgeryStepBase.desc }
+ent-SurgeryStepRestoreCartilage = Restaurar a cartilagem
+    .desc = { ent-SurgeryStepBase.desc }

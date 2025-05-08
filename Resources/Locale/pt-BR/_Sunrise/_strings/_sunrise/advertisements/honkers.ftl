@@ -1,0 +1,10 @@
+advertisement-honkers-1 = Precisa de granadas para assustar, não explodir? Tenho a solução… PUFF!
+advertisement-honkers-2 = Operativo nuclear? Claro, quase isso. Mas teste em pessoas primeiro!
+advertisement-honkers-3 = Goloparasita? Parece mais um golofarsa! Mas é divertido!
+advertisement-honkers-4 = Procurando anomalias? Tenho umas falsas, mas tão convincentes que até os cientistas vão ficar confusos!
+advertisement-honkers-5 = Por que usar granadas reais quando se tem essas? Muito barulho, zero dano! Seguro e divertido!
+advertisement-honkers-6 = Traje falso de agente — para quem quer parecer perigoso, mas na verdade… é só um palhaço!
+advertisement-honkers-7 = Nada de goloparasitas reais, apenas uma ilusão de qualidade! E quem se importa se é uma maquiagem?
+advertisement-honkers-8 = As anomalias são tão falsas que você mesmo vai começar a acreditar nelas! Engano de alto nível!
+advertisement-honkers-9 = Ei, palhaço! Essas coisas só vão explodir suas piadas, não seus amigos!
+advertisement-honkers-10 = Traje de agente — para ser temido e fazer os outros rirem. O verdadeiro sucesso da temporada!

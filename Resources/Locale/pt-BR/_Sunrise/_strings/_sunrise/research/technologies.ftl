@@ -1,0 +1,17 @@
+research-discipline-biochemical = Bioquímica
+research-technology-basic-surgery = Cirurgia Básica
+research-technology-basic-cyberlimbs = Ciborgue Básico (Cibernéticas)
+research-technology-basic-syringegun = Pistolas de Seringa Básicas
+research-technology-compact-syringegun = Pistolas de Seringa Compactas
+research-technology-rapid-syringegun = Pistolas de Seringa Automáticas
+research-technology-cryostasis-ammo = Mini-Seringas de Criostase
+research-technology-bluespace-ammo = Mini-Seringas de Bluespace
+research-technology-implant-extractor = Extrator de Implantes
+research-technology-advanced-surgery = Cirurgia Avançada
+research-technology-handcraft-nvd = Visores Noturnos Artesanais
+research-technology-basic-nvd = Visores Noturnos Avançados
+research-technology-basic-thermals = Scanners Térmicos
+research-technology-extended-amunitions = Carregadores Expandidos
+research-technology-phazon = Phazon
+research-technology-cargo-bluespace-equipment = Equipamentos de Bluespace para Carga
+research-technology-medical-hyposprays = Hipo-Spray Médicos

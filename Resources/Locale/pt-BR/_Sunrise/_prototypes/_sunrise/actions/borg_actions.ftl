@@ -1,0 +1,16 @@
+ent-ActionToggleBorgMagboots = Alternar botas magnéticas
+    .desc = Alterna as botas magnéticas, permitindo locomoção sem gravidade.
+ent-BorgCuffed = Algemar humanóide
+    .desc = Algema um humanóide com abraçadeiras descartáveis.
+ent-FabricateLollipop = Produzir pirulito
+    .desc = Cria um pirulito recheado de substâncias benéficas.
+ent-FabricateGumball = Produzir chiclete
+    .desc = Cria um chiclete cheio de açúcar e medicamentos.
+ent-FabricateCookie = Produzir biscoito
+    .desc = Cria um biscoito que agrada qualquer um.
+ent-FabricateSoap = Produzir sabão
+    .desc = Cria um sabão que poucos vão gostar.
+ent-PieThrow = { "" }
+    .desc = { "" }
+ent-ActionViewCrewManifest = Visualizar manifesto da tripulação
+    .desc = Abre a lista de membros da tripulação da estação.

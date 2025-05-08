@@ -1,0 +1,11 @@
+service-check-member-discord-title = Verificação de associação no Discord
+service-check-member-telegram-title = Verificação de associação no Telegram
+service-check-member-discord-info = Para acessar o servidor, você precisa ser membro do nosso servidor Discord.
+service-check-member-telegram-info = Para acessar o servidor, você precisa ser membro do nosso canal Telegram.
+service-check-member-warn = Lembre-se de que para acessar o servidor, você deve usar a conta vinculada.
+service-check-member-username = Sua conta vinculada:
+service-check-member-browser-btn = Abrir no navegador
+service-check-member-quit-btn = Sair
+service-check-member-qrcode = QR Code para escanear no celular.
+service-check-member-check-btn = Verificar
+service-check-member-check-btn-wait = Aguarde: { TOSTRING($time, "G3") }

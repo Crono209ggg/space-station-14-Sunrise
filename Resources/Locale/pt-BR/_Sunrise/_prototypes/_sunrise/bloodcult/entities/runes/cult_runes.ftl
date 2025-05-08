@@ -1,0 +1,9 @@
+ent-OfferingRune = runa de oferenda
+ent-BuffRune = runa de reforço
+ent-EmpoweringRune = runa de poder
+ent-TeleportRune = runa de teletransporte
+ent-SummoningRune = runa de invocação
+ent-ReviveRune = runa de ressurreição
+ent-BarrierRune = runa de barreira
+ent-BloodBoilRune = runa de sangue fervente
+ent-ApocalypseRune = ritual de ruptura espacial

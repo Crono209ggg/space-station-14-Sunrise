@@ -1,7 +1,7 @@
-access-system-sender = Система доступов
-access-system-accesses-established = Внимание! Доступы были перезаписаны.
-access-system-accesses-delay-green = Зафиксировано установление зеленого кода! Запущен протокол автоматической перезаписи доступов. Все аварийные доступы будут стёрты через 1 минуту.
-access-system-accesses-delay-blue = Зафиксировано установление синего кода! Запущен протокол автоматической перезаписи доступов. Сотрудники службы безопасности получат дополнительные доступы в технические помещения через 1 минуту.
-access-system-accesses-delay-red = Зафиксировано установление красного кода! Запущен протокол автоматической перезаписи доступов. Сотрудники службы безопасности получат расширенный доступ через 1 минуту.
-access-system-accesses-delay-yellow = Зафиксировано установление желтого кода! Запущен протокол автоматической перезаписи доступов. Атмосферные техники и Старший Инженер получат дополнительные доступы через 1 минуту.
-access-system-accesses-delay-gamma = Зафиксировано установление гамма кода! Запущен протокол автоматической перезаписи доступов. Сотрудники службы безопасности получат расширенный доступ через 1 минуту.
+access-system-sender = Sistema de Acessos
+access-system-accesses-established = Atenção! Os acessos foram regravados.
+access-system-accesses-delay-green = Foi registrado o estabelecimento do código verde! O protocolo de regravação automática de acessos foi iniciado. Todos os acessos de emergência serão apagados em 1 minuto.
+access-system-accesses-delay-blue = Foi registrado o estabelecimento do código azul! O protocolo de regravação automática de acessos foi iniciado. Os funcionários da segurança terão acessos adicionais a áreas técnicas em 1 minuto.
+access-system-accesses-delay-red = Foi registrado o estabelecimento do código vermelho! O protocolo de regravação automática de acessos foi iniciado. Os funcionários da segurança terão acesso ampliado em 1 minuto.
+access-system-accesses-delay-yellow = Foi registrado o estabelecimento do código amarelo! O protocolo de regravação automática de acessos foi iniciado. Os técnicos de atmosfera e o Engenheiro Chefe receberão acessos adicionais em 1 minuto.
+access-system-accesses-delay-gamma = Foi registrado o estabelecimento do código gama! O protocolo de regravação automática de acessos foi iniciado. Os funcionários da segurança terão acesso ampliado em 1 minuto.

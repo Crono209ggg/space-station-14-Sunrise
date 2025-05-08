@@ -1,0 +1,1 @@
+panic-bunker-account-reason-vpn = O servidor bloqueou o acesso através de uma conexão VPN.

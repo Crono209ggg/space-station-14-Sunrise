@@ -1,0 +1,1 @@
+role-timer-discord = Para jogar com este papel, você precisa [color=yellow]obter o cargo no Discord[/color].

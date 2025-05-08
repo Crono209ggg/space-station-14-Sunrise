@@ -1,0 +1,15 @@
+marking-DemonTail1 = Ponta afiada, cauda
+marking-DemonTailLong = Longa e peluda, cauda
+marking-DemonTailUp = Longa e peluda, cauda (levantada)
+marking-DemonCowEars = Orelhas de vaca, orelhas
+marking-DemonEars = Orelhas demoníacas, orelhas
+marking-DemonCowHorns = Chifres de vaca, chifres
+marking-DemonHornsDeer = Chifres de cervo, chifres
+marking-DemonHornsSmall = Chifres pequenos, chifres
+marking-DemonChestCowSpots = Manchas de vaca, peito
+marking-DemonChestGuard = Manchas de guardião, peito
+marking-DemonChestLinesEmperos = Linhas imperiais, peito
+marking-DemonChestQueenLines = Linhas reais, peito
+marking-DemonChestTreeLines = Linhas arbóreas, peito
+marking-DemonChestTrinitySpots = Marcas de succubus, peito
+marking-DemonGoatee = Cavanhaque de bode

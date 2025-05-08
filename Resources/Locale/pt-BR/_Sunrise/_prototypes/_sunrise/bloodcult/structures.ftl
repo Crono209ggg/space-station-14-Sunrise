@@ -1,0 +1,12 @@
+recipe-CultGirder-name = Viga Rúnica  
+recipe-CultGirder-description = Grande elemento construtivo feito de metal, com uma runa gravada nele.  
+recipe-AirlockGlassCult-name = Portão de Vidro Rúnico  
+recipe-AirlockGlassCult-description = Um estranho portão de vidro com uma runa.  
+recipe-CultPylon-name = Pilão  
+recipe-CultPylon-description = Construção mística.  
+recipe-AltarTome-name = Arquivos  
+recipe-AltarTome-description = Uma mesa coberta de manuscritos e livros secretos em idiomas desconhecidos.  
+recipe-CultBloodAltar-name = Altar Sangrento  
+recipe-CultBloodAltar-description = Um altar sanguinolento, dedicado a alguma entidade.  
+recipe-CultForge-name = Forja  
+recipe-CultForge-description = Uma forja onde armas profanas são forjadas.  

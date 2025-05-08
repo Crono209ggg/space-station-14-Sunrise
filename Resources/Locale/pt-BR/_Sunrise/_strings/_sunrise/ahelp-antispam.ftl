@@ -1,0 +1,1 @@
+ahelp-antispam-ban-reason = Você foi banido pelo sistema automático de anti-spam no Ahelp. Se achar que foi um erro, pode apelar do banimento no servidor do Discord do projeto.

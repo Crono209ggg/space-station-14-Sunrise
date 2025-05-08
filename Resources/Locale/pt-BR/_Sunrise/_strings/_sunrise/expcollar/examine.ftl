@@ -1,0 +1,5 @@
+expcollar-examine-armed = Modo de combate [color=red]ativado[/color]
+expcollar-examine-disarmed = Modo de combate [color=green]desativado[/color]
+expcollar-examine-virgin = [color=yellow]O colar nunca foi usado antes[/color]
+expcollar-examine-unvirgin = [color=red]O colar já foi usado antes e perdeu sua eficácia[/color]
+expcollar-examine-linked = [color=lightblue]O colar emite impulsos de bluespace[/color]

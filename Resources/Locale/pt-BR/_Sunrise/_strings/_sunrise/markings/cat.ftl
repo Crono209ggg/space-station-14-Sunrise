@@ -1,0 +1,15 @@
+marking-CatTail-tail_cat_wag = Principal
+marking-CatTailStripes = Cauda de gato (Listrada)
+marking-CatTailStripes-tail_cat_wag_stripes_prime = Listras primárias
+marking-CatTailStripes-tail_cat_wag_stripes_second = Listras secundárias
+marking-CatEars-ears_cat_outer = Orelha externa
+marking-CatEars-ears_cat_inner = Orelha interna
+marking-CatEarsStubby = Orelhas curtas
+marking-CatEarsStubby-ears_stubby_outer = Orelha externa
+marking-CatEarsStubby-ears_stubby_inner = Orelha interna
+marking-CatEarsCurled = Orelhas enroladas
+marking-CatEarsCurled-ears_curled_outer = Orelha externa
+marking-CatEarsCurled-ears_curled_inner = Orelha interna
+marking-CatEarsTorn = Orelhas rasgadas
+marking-CatEarsTorn-ears_torn_outer = Orelha externa
+marking-CatEarsTorn-ears_torn_inner = Orelha interna

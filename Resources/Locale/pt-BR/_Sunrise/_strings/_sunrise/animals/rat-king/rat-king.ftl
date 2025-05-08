@@ -1,0 +1,1 @@
+rat-king-max-army = Você excedeu o número máximo de súditos: { $amount }

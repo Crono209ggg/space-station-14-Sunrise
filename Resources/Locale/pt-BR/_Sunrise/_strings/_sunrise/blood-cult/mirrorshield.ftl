@@ -1,0 +1,1 @@
+cultshield-broken = { $name } se estilhaça com um estrondo.

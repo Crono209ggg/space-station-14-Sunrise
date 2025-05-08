@@ -1,0 +1,14 @@
+ent-ArtificerCreateSoulStone = Criar pedra da alma.
+    .desc = Este feitiço penetra no reino do seu deus, invocando um dos fragmentos lendários através do tempo e espaço.
+ent-ArtificerCreateConstructShell = Criar casca de construto.
+    .desc = Este feitiço penetra no reino do seu deus, invocando um dos fragmentos lendários através do tempo e espaço.
+ent-ArtificerConvertCultistFloor = Criar piso de cultista.
+    .desc = Este feitiço transforma o piso sob você em um piso de cultista.
+ent-ArtificerCreateCultistWall = Criar parede do culto.
+    .desc = Este feitiço ergue uma parede do culto.
+ent-ArtificerCreateCultistAirlock = Criar escotilha do culto.
+    .desc = Este feitiço ergue uma escotilha do culto.
+ent-WraithPhase = Deslocamento Fásico
+    .desc = Este feitiço permite atravessar paredes, semelhante ao voo sem corpo de um mago.
+ent-JuggernautCreateWall = Escudo
+    .desc = Este feitiço cria um campo de força temporário e invisível para proteger você e seus aliados contra fogo intenso.

@@ -1,0 +1,9 @@
+animations-flip = Saltar
+animations-jump = Pular
+animations-dance = Dançar
+animations-lay = Deitar/Levantar
+animations-fall-on-neck = Cair sobre o pescoço
+animations-msg-flip = faz um salto
+animations-msg-jump = pula
+animations-msg-dance = dança
+animations-msg-fall-on-neck = cai sobre o pescoço
