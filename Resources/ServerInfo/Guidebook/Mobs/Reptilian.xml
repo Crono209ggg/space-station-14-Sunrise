@@ -1,17 +1,17 @@
 <Document>
-  # Унатхи (унати)
+  # Reptiliano (unatis)
 
   <Box>
     <GuideEntityEmbed Entity="MobReptilian" Caption=""/>
   </Box>
-  Унатхи (м.р. унатх, ж.р. унати) — это вид чешуйчатых гуманоидов родом с тропической планеты Д’тхун, расположенной в звездной системе Рисси-Ташут. Они могут есть только фрукты и мясо. Предпочитают более высокий диапазон температур по сравнению с людьми. С помощью своего хвоста они могут тащить объекты, освобождая обе руки.
+  Reptiliano (masc. unath, fem. unati) são uma espécie de humanoides escamosos originários do planeta tropical D’thun, localizado no sistema estelar Rissi-Tashut. Podem comer apenas frutas e carne. Preferem uma faixa de temperatura mais elevada do que os humanos. Com a ajuda de suas caudas, podem arrastar objetos mantendo ambas as mãos livres.
   
-  ## Расовые особенности
-  - Животный желудок, вмещает 50 единиц веществ, получает урон ядами от шоколада.
-  - Безоружная атака отличается от остальных рас – наносит пробивающий урон (когтями), что позволяет голыми руками ломать двери, вендоматы, стены, шкафы и прочее.
-  - Получают урон от голода холодом по [color=red]0.1[/color] единице в секунду
-  - Могут таскать предметы с занятыми руками (хвостом)
-  - Имеют отличимый от других рас порог температуры. При низкой температуре получают [color=red]0.1[/color] холода в секунду; При высокой температуре получают [color=red]0.1[/color] ожогов в секунду.
-  - Имеют акцент, который добавляет шипящие «ссс» и «щщщ» в их речь.
-  - Можно разделать на крюке и получить 5 мяса ящерицы
+  ## Características Raciais
+  - Estômago animal, comporta 50 unidades de substâncias, sofre dano por venenos à base de chocolate.
+  - Ataques desarmados diferem dos de outras raças — causam dano perfurante (com garras), o que permite destruir portas, máquinas de venda, paredes, armários e outros objetos com as próprias mãos.
+  - Sofrem dano por frio devido à fome a uma taxa de [color=red]0.1[/color] por segundo.
+  - Podem carregar objetos mesmo com as mãos ocupadas (usando a cauda).
+  - Possuem um limiar de temperatura diferente de outras raças. Em temperaturas baixas, recebem [color=red]0.1[/color] de dano por frio por segundo; em temperaturas altas, recebem [color=red]0.1[/color] de queimaduras por segundo.
+  - Têm um sotaque característico que adiciona sons de “sss” e “shhh” à fala.
+  - Ao serem abatidos no gancho, fornecem 5 unidades de carne de lagarto.
 </Document>

@@ -1,46 +1,46 @@
 <Document>
-  # Зомби
+  # Zumbis
   
   <Box>
-    [color=#999999][italic]"Они идут за тобой, Барбара!"[/italic][/color]
+    [color=#999999][italic]"Eles estão vindo por você, Bárbara!"[/italic][/color]
   </Box>
   <Box>
     <GuideEntityEmbed Entity="SignBiohazard" Caption=""/>
   </Box>
 
-  Зомби — это антагонисты, способные заражать всех существ, которых они кусают, вирусом [color=#7e916e]Ромерол[/color], смертельным и заразным, который легко распространяется, если его не сдержать.
+  Zumbis são antagonistas capazes de infectar todos os seres que mordem com o vírus [color=#7e916e]Romerol[/color], mortal e contagioso, que se espalha facilmente se não for contido.
 
   <Box>
     <GuideReagentEmbed Reagent="Romerol"></GuideReagentEmbed>
   </Box>
 
-  ## Первоначально Зараженные
-  Вы — пациент ноль. В ваших жилах течет [color=#7e916e]Ромерол[/color], и вы испытываете огромное желание поделиться им с каждым встречным живым существом.
+  ## Infectados Iniciais
+  Você é o paciente zero. [color=#7e916e]Romerol[/color] corre em suas veias, e você sente um desejo incontrolável de compartilhá-lo com qualquer ser vivo que encontrar.
 
-  Как только вы узнаете о своей инфекции, [italic]все ставки снимаются[/italic]. У вас есть лишь ограниченное время до превращения, и вы хотите [bold]максимизировать свои шансы на захват станции.[/bold]
-  Используйте это время для подготовки оружия, снаряжения и ловушек. [italic]Космическое право больше для вас ничего не значит.[/italic]
+  Assim que descobrir a infecção, [italic]todas as apostas estão canceladas[/italic]. Você tem apenas um tempo limitado antes da transformação, e deve [bold]maximizar suas chances de conquistar a estação.[/bold]
+  Use esse tempo para preparar armas, equipamentos e armadilhas. [italic]A lei espacial não se aplica mais a você.[/italic]
 
-  ## Передача
-  Зомби умеют лишь шаркать, кусать и бросаться на баррикады. Их укус [bold]не всегда передает [color=#7e916e]Ромерол[/color][/bold] через плотные слои одежды, но точно причиняет боль.
+  ## Transmissão
+  Zumbis apenas arrastam os pés, mordem e investem contra barricadas. Suas mordidas [bold]nem sempre transmitem [color=#7e916e]Romerol[/color][/bold] através de roupas grossas, mas com certeza causam dor.
 
-  Нежить также может укусить критически раненое или мертвое тело, чтобы [bold]мгновенно превратить[/bold] его в зомби.
+  Mortos-vivos também podem morder corpos gravemente feridos ou mortos para [bold]transformá-los instantaneamente[/bold] em zumbis.
 
-  ## Атрибуты Зомби
-  Зомби можно узнать по тёмно-зелёной коже, красным глазам, медленному передвижению, запаху гниения и отсутствию двигательных функций. При превращении они роняют наушники и перчатки, а наручники не защитят от их жестокого укуса.
+  ## Atributos dos Zumbis
+  Zumbis podem ser reconhecidos por sua pele verde-escura, olhos vermelhos, movimento lento, cheiro de podridão e falta de coordenação motora. Ao se transformarem, eles deixam cair fones de ouvido e luvas, e algemas não os protegem contra mordidas violentas.
 
-  Зомби известны своей [bold]стойкостью к порезам, ударам, ядам и холоду.[/bold] Они могут выжить в вакууме и не нуждаются в пище, воде, воздухе или сне. Однако нежить [italic]получает повышенный урон от ожогов и ударов током.[/italic]
+  São conhecidos por sua [bold]resistência a cortes, pancadas, venenos e frio.[/bold] Eles sobrevivem no vácuo e não precisam de comida, água, ar ou sono. Contudo, mortos-vivos [italic]recebem mais dano de queimaduras e choques elétricos.[/italic]
 
-  ## Выживание
-  Когда инфекция распространяется и [color=#cb0000]Служба безопасности[/color] падает, задача [bold]выживших[/bold] — попытаться добраться до Центрального Командования.
+  ## Sobrevivência
+  Quando a infecção se espalha e a [color=#cb0000]Segurança[/color] cai, a missão dos [bold]sobreviventes[/bold] é tentar alcançar o Comando Central.
 
-  [bold]Постройка баррикад[/bold] вокруг отделов или [bold]запирание дверей[/bold] может выиграть достаточно времени для создания оружия, спасения жизней или разработки плана.
+  [bold]Construir barricadas[/bold] ao redor dos departamentos ou [bold]trancar portas[/bold] pode garantir tempo suficiente para criar armas, salvar vidas ou elaborar um plano.
 
-  Помните, что в трудные моменты [italic]приходится делать то, что необходимо[/italic], пока это не идёт в ущерб другим выжившим. Собирайте все необходимое у тех, кто не выжил.
+  Lembre-se: em tempos difíceis, [italic]faça o que for necessário[/italic], desde que não prejudique outros sobreviventes. Pegue tudo o que precisar daqueles que não resistiram.
 
-  ## Лечение
-  [bold]Те, кто уже стал нежитью, могут быть излечены только [color=red]смертью.[/color][/bold]
+  ## Cura
+  [bold]Aqueles que já se tornaram mortos-vivos só podem ser curados pela [color=red]morte.[/color][/bold]
 
-  Если вы заражены, но ещё не превратились в зомби, использование [color=#86caf7]Амбузола[/color] вылечит вас, но не предотвратит повторное заражение. [color=#1274b5]Амбузол Плюс[/color] вылечит и предотвратит повторное заражение, но только пока вы живы.
+  Se você estiver infectado, mas ainda não transformado, o uso de [color=#86caf7]Ambuzol[/color] irá curá-lo, mas não previne reinfecção. [color=#1274b5]Ambuzol Plus[/color] cura e previne reinfecção — mas apenas enquanto você estiver vivo.
 
   <Box>
     <GuideReagentEmbed Reagent="Ambuzol"></GuideReagentEmbed>

@@ -1,64 +1,66 @@
 <Document>
-# Speech and Text Channels
-Общение - ключевая часть Space Station 14. Вы можете нажать [keybind="FocusChatInputWindow"/], чтобы перейти к текстовому полю.
 
-Слово рядом с текстовым полем - это [color=#a4885c]текстовый канал[/color], в который вы собираетесь отправить сообщение, или, скорее, как именно вы собираетесь сказать то, что написали.
+# Canais de Fala e Texto
+A comunicação é uma parte essencial do Space Station 14. Você pode pressionar [keybind="FocusChatInputWindow"] para acessar o campo de texto.
 
-Рядом - это обычная речь на нормальной громкости.
+A palavra ao lado do campo de texto é o [color=#a4885c]canal de texto[/color] no qual você vai enviar sua mensagem ou, mais precisamente, como você vai dizer o que escreveu.
 
-Шепот слышен только, когда кто-то находится рядом. Вы автоматически шепчете в гарнитуру, чтобы отправить сообщение.
+Ao lado disso, temos a fala normal, na intensidade habitual.
 
-Эмоции - это жесты, которые вы делаете. Их могут видеть все, кто не ослеплен. Вы часто будете видеть, как мимы делают много эмоций.
+O sussurro só é ouvido quando alguém está perto de você. Você automaticamente sussurra para o fone de ouvido para enviar a mensagem.
 
-Сообщение шепотом можно отправить, начиная сообщение с [color=#a4885c][keybind="FocusWhisperChatWindow"/][/color], а эмоции можно отправить, начиная сообщение с ([color=#a4885c]@[/color]).
-Вы также можете переключаться между всеми этими текстовыми каналами, нажимая [keybind="CycleChatChannelForward"/].
+As emoções são gestos que você faz. Elas podem ser vistas por todos que não estão cegos. Você frequentemente verá mímicos fazendo muitos gestos.
 
-Люди могут не расслышать всего, что вы говорите, если вы стоите слишком далеко от них. Это особенно важно, если вы шепчете.
+Para enviar uma mensagem sussurrada, comece a mensagem com [color=#a4885c][keybind="FocusWhisperChatWindow"][/color], e para as emoções, comece com (@). 
+Você também pode alternar entre todos esses canais de texto pressionando [keybind="CycleChatChannelForward"].
 
-## Гарнитура
+As pessoas podem não ouvir tudo o que você diz se estiver muito longe delas. Isso é especialmente importante ao sussurrar.
 
-Ваша гарнитура позволяет вам общаться по всей станции и с вашим конкретным [color=#a4885c]отделом[/color].
+## Fone de ouvido
+
+Seu fone de ouvido permite que você se comunique por toda a estação e com seu [color=#a4885c]departamento específico[/color].
 
 <Box>
   <GuideEntityEmbed Entity="ClothingHeadsetGrey"/>
 </Box>
 
-Чтобы отправить [color=#a4885c]общее сообщение[/color] по гарнитуре, используйте [color=#32cd32]Общий[/color] канал, начиная ваш текст с [color=#32cd32]точки с запятой (;)[/color].
-Люди, стоящие прямо рядом с вами, могут уловить части вашего радиосообщения, даже если у них нет доступа к соответствующему радиоканалу. Следите за подслушивающими.
+Para enviar uma [color=#a4885c]mensagem geral[/color] através do fone de ouvido, use o canal [color=#32cd32]Geral[/color], começando o seu texto com [color=#32cd32]ponto e vírgula (;)[/color].
+As pessoas que estão bem próximas de você podem captar partes da sua mensagem de rádio, mesmo que não tenham acesso ao canal correspondente. Fique atento a quem pode estar ouvindo.
 
-## Гарнитура департамента
+## Fone de ouvido de departamento
 
-Вы можете отправлять сообщения по каналам вашего отдела, используя [color=#32cd32]двоеточие (:)[/color] с последующей буквой отдела, если на вас надета гарнитура с ключом шифрования вашего отдела.
+Você pode enviar mensagens pelos canais do seu departamento, usando [color=#32cd32]dois pontos (:)[/color] seguidos pela letra do departamento, se você estiver usando um fone de ouvido com chave de criptografia do seu departamento.
 
-Осмотрите вашу гарнитуру, чтобы увидеть доступные вам каналы отдела.
+Verifique seu fone de ouvido para ver quais canais estão disponíveis para você.
 
 <Box>
   <GuideEntityEmbed Entity="ClothingHeadsetEngineering"/>
 </Box>
 
-Осмотр немодифицированной инженерной гарнитуры покажет вам префиксы для каналов [color=#32cd32]Общий[/color] и [color=#f37746]Инженерный[/color].
+Examinar um fone de ouvido de engenharia não modificado mostrará os prefixos para os canais [color=#32cd32]Geral[/color] e [color=#f37746]Engenharia[/color].
 
-Так-же можно использовать [color=#a4885c]:h[/color]. Эта горячая клавиша автоматически перейдет на канал вашего отдела.
-Например, если вы инженер станции, то [color=#a4885c]:h[/color] перейдет на [color=#f37746]:e[/color].
+Você também pode usar [color=#a4885c]:h[/color]. Essa tecla de atalho irá automaticamente para o canal do seu departamento.
+Por exemplo, se você for um engenheiro, [color=#a4885c]:h[/color] irá para [color=#f37746]:e[/color].
 
-## Ключи шифрования
-[color=#a4885c]Ключи шифрования[/color] дают вам доступ к соответствующему каналу.
+## Chaves de criptografia
+As [color=#a4885c]chaves de criptografia[/color] dão acesso ao canal correspondente.
   
-Осмотр нашей инженерной гарнитуры из предыдущего примера показывает нам [color=#32cd32]Общий[/color] и [color=#f37746]Инженерный[/color] каналы, потому что гарнитура инженера с начала смены имеет данные [color=#a4885c]ключи шифрования[/color].
+Examinando o fone de ouvido de engenharia do exemplo anterior, vemos os canais [color=#32cd32]Geral[/color] e [color=#f37746]Engenharia[/color], porque o fone de ouvido de engenharia no início da rodada contém essas [color=#a4885c]chaves de criptografia[/color].
   
 <Box>
   <GuideEntityEmbed Entity="EncryptionKeyCommon"/>
   <GuideEntityEmbed Entity="EncryptionKeyEngineering"/>
 </Box>
   
-Вы можете извлечь ключи шифрования, используя [color=#a4885c]отвертку[/color] на гарнитуре. Новые ключи шифрования вставляются в гарнитуру, кликая по ней с ключом шифрования в руке.
+Você pode extrair as chaves de criptografia usando uma [color=#a4885c]chave de fenda[/color] no fone de ouvido. Novas chaves de criptografia são inseridas no fone de ouvido clicando sobre ele com a chave de criptografia na mão.
 
-Всё коммандование имеет запасные ключи шифрования, но вы также можете запросить один в офисе ГП, когда меняете работу.
+Toda a equipe de comando tem chaves de criptografia sobressalentes, mas você também pode solicitar uma no escritório do chefe de pessoal quando mudar de função.
 
-## Каналы OOC
-Каналы OOC (вне игрового персонажа) существуют вне игрового мира. Они включают LOOC, OOC и чат мертвых.
+## Canais OOC
+Canais OOC (fora de personagem) existem fora do mundo do jogo. Eles incluem LOOC, OOC e chat dos mortos.
 
-LOOC включен во время раунда, OOC обычно выключен до окончания раунда, и вы можете видеть и общаться в чате мертвых только когда вы.... ну.. мертвы.
+LOOC está ativo durante a rodada, OOC geralmente está desativado até o final da rodada, e você pode ver e interagir no chat dos mortos apenas quando você... bem... está morto.
 
-Не обсуждайте текущий раунд в Discord или OOC, если он включен во время раунда.
+Não discuta a rodada atual no Discord ou OOC, se ele estiver ativado durante a rodada.
+
 </Document>

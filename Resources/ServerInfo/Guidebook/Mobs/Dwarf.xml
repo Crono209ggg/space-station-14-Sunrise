@@ -1,23 +1,22 @@
 <Document>
-  # Дворфы
+  # Anões
   <Box>
     <GuideEntityEmbed Entity="MobDwarf" Caption=""/>
   </Box>
 
-  Дворфы (Дварфы) - это раса «гуманоидов» с планеты Барас, очень похожих на людей, разумные, немного ворчливые, имеют низкий рост, увлекаются тяжёлой работой. Они сильные, храбрые и обожают алкоголь, излечивая себя с его помощью.
+  Anões (ou Dwarves) são uma raça de "humanóides" oriundos do planeta Baras, muito semelhantes aos humanos. São inteligentes, um pouco ranzinzas, de baixa estatura e apaixonados por trabalho pesado. Fortes e corajosos, adoram álcool — e o utilizam como forma de cura.
 
-  ## Расовые особенности
+  ## Características Raciais
 
-  - Единственная раса, у которой желудок вмещает 75 единиц веществ. У всех остальных рас вместимость 50 единиц. Остальные органы не отличаются функциями от человеческих.
-  - Максимальное количество одновременно усваиваемых веществ в желудке дворфов - 5.
-  - В вакууме получает [color=red]0.35[/color] механических повреждений.
-  - Получают урон от голода кровотечением и холодом по [color=red]0.5[/color] единиц в секунду.
-  - Безоружная атака наносит [color=red]5[/color] ушибов.
-  - Из-за того, что они маленькие, они могут залезать на стеклянные столы и не разбивать их.
-  - У них меньше масса тела, следовательно с них меньше биомассы, они медленней таскают вещи, а их самих перетаскивать быстрей.
-  - Их проще обезоружить.
-  - Не может быть вызвана рвота от алкоголя.
-  - Дышат чаще в 2 раза, следовательно без воздуха получают по [color=red]2[/color] урона удушьем.
-  - Этанол лечит дворфов на [color=green]0.66[/color] уколов и ушибов и на [color=green]0.68[/color] порезов при наличии менее 5 единиц в организме.
-
+  - São a única raça cujo estômago comporta 75 unidades de substâncias. Todas as outras raças têm capacidade de 50 unidades. Os demais órgãos funcionam como os dos humanos.
+  - Podem metabolizar até 5 substâncias simultaneamente no estômago.
+  - Sofrem [color=red]0.35[/color] de dano mecânico por segundo quando expostos ao vácuo.
+  - Sofrem sangramento por fome e frio, [color=red]0.5[/color] de dano por segundo.
+  - Ataques desarmados causam [color=red]5[/color] de dano contundente.
+  - Por serem pequenos, conseguem subir em mesas de vidro sem quebrá-las.
+  - Têm menor massa corporal, portanto fornecem menos biomassa, carregam objetos mais lentamente e são mais fáceis de arrastar.
+  - São mais fáceis de desarmar.
+  - Não podem vomitar devido ao álcool.
+  - Respiram duas vezes mais rápido; sem ar, sofrem [color=red]2[/color] de dano por asfixia por segundo.
+  - O etanol cura anões em [color=green]0.66[/color] de dano de perfurações e pancadas, e [color=green]0.68[/color] de cortes, se houver menos de 5 unidades no organismo.
 </Document>

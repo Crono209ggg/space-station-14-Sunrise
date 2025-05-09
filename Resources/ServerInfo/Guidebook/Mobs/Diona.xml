@@ -1,43 +1,42 @@
 <Document>
-  # Дионы
+  # Dionas
   <Box>
     <GuideEntityEmbed Entity="MobDiona" Caption=""/>
   </Box>
 
-  Диона - это сплетение разумных нимфоподобных существ (далее - нимф) образующих собой единоличное существо с общими потребностями и разумом. Дионы адаптивные существа основная цель которых - познать мир вокруг себя. По своей сути это разумные, добрые и социальные растения.
+  A Diona é uma fusão de criaturas inteligentes semelhantes a ninfas (daqui em diante chamadas de ninfas), que juntas formam um único ser com necessidades e consciência compartilhadas. Dionas são seres adaptáveis, cuja principal motivação é explorar e compreender o mundo ao seu redor. Na essência, são plantas inteligentes, gentis e sociais.
 
-  ## Превратись в Дерево
+  ## Transforme-se em Árvore
   <Box>
     <GuideEntityEmbed Entity="FloraTree" Caption=""/>
   </Box>
-  Под воздействием слишком большого количества Робаст харвеста Диона начинает неуправляемо расти, превращаясь в неподвижное дерево (сбрасывая всё своё снаряжение).
-  После вырубки дерева Диона "восстанавливается" в своё подвижное состояние.
+  Sob efeito de uma grande quantidade de Robust Harvest, a Diona começa a crescer descontroladamente, transformando-se em uma árvore imóvel (descartando todo seu equipamento).
+  Após ser cortada, a árvore retorna ao seu estado original e móvel.
 
-  ## Нимфы
+  ## Ninfas
   <Box>
     <GuideEntityEmbed Entity="MobDionaNymph" Caption=""/>
     <GuideEntityEmbed Entity="MobDionaNymph" Caption=""/>
     <GuideEntityEmbed Entity="MobDionaNymph" Caption=""/>
   </Box>
-  После смерти, Диона может добровольно уничтожить собственное тело, превращая свои внутренние органы в трех нимф.
-  Игрок получает управление над нимфой-мозгом. Она может говорить, но у неё нет рук или инвентаря.
+  Após a morte, uma Diona pode destruir voluntariamente seu próprio corpo, convertendo seus órgãos internos em três ninfas.
+  O jogador controla a ninfa que representa o cérebro. Ela pode falar, mas não possui mãos nem inventário.
 
-  Посла 10 минут, нимфа может реформироваться в новую диону. Это будет случайное тело со случайным именем.
-  Не останется практически и следа от того, чем нимфа была раньше.
+  Após 10 minutos, uma ninfa pode se reconstruir em uma nova Diona. O corpo e o nome serão aleatórios.
+  Praticamente não restará traço algum de quem a ninfa foi anteriormente.
 
-  ## Расовые особенности
+  ## Características Raciais
 
-  - Получают [color=#ffa500]на 50% больше урона огнём и 20% электричеством[/color], но [color=#1e90ff]на 30% меньше тупого и на 20% меньше режущего урона[/color].
-  - Cкорость метаболизма - 0.05 единиц за тик. Это означает, что они усваивают всё намного медленнее, чем другие расы. (Самый медленный метаболизм из всех)
-  - Органы работают иначе: Мозг выполняет свои функции и работает, как легкие, сердце и печень у них отсутствуют, поэтому их функции выполняет желудок. Максимальное количество веществ в желудке - 6. Желудок объединяет максимальные вещества: от сердца человека (2), от желудка человека (3) и от печени (1). Их желудок переваривает еду, напитки, лекарства, яды, наркотики, алкоголь, всё опять же из-за объединения органов
-  - Получают урон от голода кровотечением по [color=red]0.5[/color] единице в секунду.
-  - Голодают и испытывают жажду [color=#1e90ff]на ~50% медленней.[/color]
-  - Не может бить врукопашную, но может стрелять.
-  - Могут дышать углекислым газом.
-  - Дышат реже в 2 раза, следовательно без воздуха/углекислого газа получают по [color=red]0.5[/color] урона удушьем.
-  - Вместо крови у них древесный сок, при кровотечении истекают им же.
-  - Так как дионы растения, они могут употреблять удобрения в качестве лекарств и гербициды в качестве отравы.
-  - Не могут носить обувь.
-  - Можно разделать на крюке и получить 5 мяса растения.
-
+  - Recebem [color=#ffa500]50% mais dano de fogo e 20% de eletricidade[/color], mas [color=#1e90ff]30% menos dano contundente e 20% menos cortante[/color].
+  - Taxa de metabolismo: 0.05 por tick. Isso significa que absorvem substâncias muito mais devagar que outras espécies. (O metabolismo mais lento entre todas)
+  - Órgãos funcionam de forma diferente: o cérebro também atua como pulmões; não possuem coração nem fígado — suas funções são desempenhadas pelo estômago. O estômago comporta até 6 unidades de substâncias, combinando os limites dos órgãos humanos (2 do coração, 3 do estômago e 1 do fígado). Esse órgão digere alimentos, bebidas, medicamentos, venenos, drogas e álcool.
+  - Sofrem sangramento por fome em [color=red]0.5[/color] de dano por segundo.
+  - Sentem fome e sede [color=#1e90ff]cerca de 50% mais devagar[/color].
+  - Não podem atacar desarmadas, mas podem usar armas de fogo.
+  - Podem respirar dióxido de carbono.
+  - Respiram duas vezes mais devagar; se estiverem sem ar/CO₂, recebem [color=red]0.5[/color] de dano por asfixia.
+  - No lugar de sangue, possuem seiva; sangram seiva ao serem feridas.
+  - Como são plantas, fertilizantes funcionam como medicamentos e herbicidas como venenos.
+  - Não podem usar calçados.
+  - Podem ser esfoladas em um gancho, rendendo 5 unidades de carne vegetal.
 </Document>

@@ -1,35 +1,34 @@
 <Document>
-  # Арахниды
+  # Arachnídeos
   <Box>
     <GuideEntityEmbed Entity="MobArachnid" Caption=""/>
   </Box>
 
-  Арахниды — это паукообразные гуманоидные разумные существа с планеты Расгар. Большинство из представителей вида ведет ночной и в основном подземный образ жизни.
+  Arachnídeos são seres humanóides inteligentes com características de aranhas, originários do planeta Rasgar. A maioria leva uma vida noturna e predominantemente subterrânea.
 
-  ## Производство шёлка
+  ## Produção de Seda
   <Box>
     <GuideEntityEmbed Entity="MaterialWebSilk" Caption=""/>
     <GuideEntityEmbed Entity="ClothingUniformJumpskirtWeb" Caption=""/>
     <GuideEntityEmbed Entity="WebShield" Caption=""/>
     <GuideEntityEmbed Entity="WallWeb" Caption=""/>
   </Box>
-  Арахниды могут производить шёлк, расходуя голод. Они (и только они) могут изготавливать из шёлка различные предметы, от одежды и щитов до целых стен.
- 
-  ## Расовые особенности
+  Arachnídeos podem produzir seda à custa de fome. Apenas eles conseguem criar diversos itens com seda — desde roupas e escudos até paredes inteiras.
 
-  - Получают [color=#ffa500]на 50% больше тупого урона и урона огнём[/color].
-  - Метаболизм происходит быстрее, чем у других рас (0.75 за тик).
-  - Животный желудок, вмещает 50 единиц веществ, получает урон ядами от шоколада.
-  - Получают урон от голода кровотечением и холодом по 0.5 единице в секунду.
-  - Голодают и испытывают жажду [color=#1e90ff]на ~27% медленней, чем человек[/color].
-  - Безоружная атака отличается от остальных рас - арахниды наносят 5 режущего урона, атакуют быстрее в 1.5 раза.
-  - Урон удушьем в два раза больше. Восстановление происходит в два раза медленней - по 0.5 единиц.
-  - При разделке можно получить 5 мяса паука.
-  - Кровь у них паучья, синего цвета.
-  - При речи, они издают паучье шипение.
-  - Порог температур аналогичен унатхам.
-  - При низкой температуре получают [color=red]0.2[/color] холода в секунду; При высокой температуре получают 0.1 ожога в секунду (Урон может быть больше, зависит от других констант).
-  - Получают меньше урона от давления ([color=red]0.2[/color] механических в секунду).
-  - Если урон персонажа 65 единиц, то арахниды замедляются в 0.7 раз (0.7 умноженное на начальную скорость), если 80 единиц, замедляются в 0.4 раз (0.4 умноженное на начальную скорость).
+  ## Características Raciais
 
+  - Recebem [color=#ffa500]50% mais dano contundente e de fogo[/color].
+  - Metabolismo mais rápido que o das outras espécies (0.75 por tick).
+  - Estômago animal com capacidade para 50 unidades; sofrem dano por veneno ao consumir chocolate.
+  - Sofrem dano de sangramento e frio ao ficarem com fome — 0.5 de dano por segundo.
+  - Sentem fome e sede [color=#1e90ff]cerca de 27% mais devagar do que os humanos[/color].
+  - Ataque desarmado é único — causam 5 de dano cortante e atacam 1.5 vezes mais rápido.
+  - Recebem o dobro de dano por asfixia. Recuperação também é duas vezes mais lenta (0.5 por tick).
+  - Ao serem dissecados, rendem 5 unidades de carne de aranha.
+  - Têm sangue azul, característico de aranhas.
+  - Produzem chiados típicos de aranha ao falar.
+  - Tolerância térmica semelhante à dos Unathi.
+  - Em baixas temperaturas, sofrem [color=red]0.2[/color] de dano por frio por segundo; em altas temperaturas, sofrem 0.1 de queimadura por segundo (o dano pode ser maior dependendo de outros fatores).
+  - Recebem menos dano por pressão ([color=red]0.2[/color] de dano mecânico por segundo).
+  - Quando com 65 de dano total, ficam 30% mais lentos (multiplicador de 0.7); com 80 de dano, ficam 60% mais lentos (multiplicador de 0.4).
 </Document>

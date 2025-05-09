@@ -1,8 +1,8 @@
 <Document>
 
-# Основные лекарства
+# Medicamentos principais
 
-Эти препараты почти всегда так или иначе полезны для медблока.
+Esses medicamentos são quase sempre úteis de alguma forma para a enfermaria.
 
 <GuideReagentEmbed Reagent="Bicaridine"/>
 <GuideReagentEmbed Reagent="Kelotane"/>
@@ -13,9 +13,9 @@
 <GuideReagentEmbed Reagent="DexalinPlus"/>
 <GuideReagentEmbed Reagent="Iron"/>
 
-# Специальные препараты
+# Medicamentos especiais
 
-Эти препараты, как правило, имеют специфические случаи применения.
+Esses medicamentos geralmente têm casos de aplicação específicos.
 
 <GuideReagentEmbed Reagent="Cryoxadone"/>
 <GuideReagentEmbed Reagent="Epinephrine"/>
@@ -27,9 +27,9 @@
 <GuideReagentEmbed Reagent="Ambuzol"/>
 <GuideReagentEmbed Reagent="Oculine"/>
 
-# Все лекарства
+# Todos os medicamentos
 
-Это список всех имеющихся лекарств, включая ранее перечисленные.
+Este é o lista de todos os medicamentos disponíveis, incluindo os previamente mencionados.
 
 <GuideReagentGroupEmbed Group="Medicine"/>
 

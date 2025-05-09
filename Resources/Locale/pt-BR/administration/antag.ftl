@@ -12,3 +12,4 @@ admin-verb-text-make-nuclear-operative = Torna Operativo Nuclear
 admin-verb-text-make-pirate = Torna Pirata
 admin-verb-text-make-head-rev = Torna Head Rev
 admin-verb-text-make-thief = Torna Ladrão
+admin-verb-make-vampire = Transformar alvo em vampiro.

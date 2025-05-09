@@ -1,70 +1,70 @@
 <Document>
-# Важные советы по созданию персонажа
-Это руководство по тем частям создания персонажа, которые влияют на игровой процесс.
+# Dicas importantes para criar seu personagem
+Este é um guia sobre as partes da criação de personagem que afetam a jogabilidade.
 
-[textlink="Руководство по косметическим изменениям можно найти здесь." link="YourFirstCharacter"]
+[textlink="O guia para mudanças cosméticas pode ser encontrado aqui." link="YourFirstCharacter"]
 
-## Приоритет спавна
-Это влияет на то, где вы появляетесь при присоединении к раунду после его начала.
+## Prioridade de spawn
+Isso define onde você aparecerá ao entrar em uma rodada em andamento.
 
-Выбрав "Прибытие", вы попадёте на отдельную станцию, где будете ждать прибытия шаттла, который доставит вас на главную станцию.
+Escolhendo "Chegada", você será enviado a uma estação separada, onde aguardará a chegada de uma nave que o levará à estação principal.
 
-Выбрав "Криосон", вы проснётесь в криокамере, уже находящейся на станции.
+Escolhendo "CrioSono", você acordará de uma câmara criogênica já presente na estação.
 
-Если вы выберете "Нет", то игра либо выберет его за вас, либо выберет единственный доступный для текущей станции вариант спавна.
+Se escolher "Nenhum", o jogo decidirá por você, ou escolherá a única opção de spawn disponível para a estação atual.
 
-Это по большей части произвольный выбор. Вы можете смело оставить значение "Нет" и не испытать никаких реальных неудобств.
+Essa escolha é, em grande parte, arbitrária. Você pode deixar em "Nenhum" sem sofrer incômodos reais.
 
-## Должности
-Вы можете задать свои предпочтения в лобби. Получение должности [color=#a4885c]не гарантируется[/color], так как места будут распределены между всеми желающими [color=#a4885c]случайным образом[/color] в начале раунда.
-У вас есть шанс быть выбранным сперва на высокоприоритетную работу, затем на среднеприоритетную, затем на низкоприоритетную.
-Вам также предоставляется возможность автоматически стать пассажиром, или вернуться в лобби, если вам не досталась ни на одна из предпочитаемых должностей.
+## Cargos
+Você pode definir suas preferências no lobby. Receber um cargo [color=#a4885c]não é garantido[/color], já que as vagas são distribuídas entre os interessados de forma [color=#a4885c]aleatória[/color] no início da rodada.
+Você tem chance de ser escolhido primeiro para cargos de alta prioridade, depois média e, por fim, baixa.
+Você também pode optar por se tornar automaticamente um passageiro, ou voltar ao lobby caso não consiga nenhum dos cargos preferidos.
 
-Некоторые должности закрыты до тех пор, пока вы не наиграете достаточно много, на других начальных должностей.
+Alguns cargos ficam bloqueados até que você tenha jogado tempo suficiente em cargos iniciais.
 
-[textlink="Для более подробной информации о должностях нажмите здесь." link="Jobs"]
+[textlink="Clique aqui para mais informações sobre os cargos." link="Jobs"]
 
-## Снаряжение должностей
-Вы также можете выбрать [color=#a4885c]снаряжения[/color] для каждой должности. Снаряжения - это предметы одежды и безделушки, с которыми вы появляетесь после вступления в игру. Некоторые предметы ограничены по игровому времени.
-Это может по-разному влиять на игровой процесс, так как некоторые предметы одежды имеют [color=#a4885c]броню[/color] или [color=#a4885c]замедляют скорость передвижения[/color]. Это особенно касается членов командования и службы безопасности.
+## Equipamento de cargos
+Você também pode escolher [color=#a4885c]equipamentos[/color] para cada cargo. Os equipamentos são roupas e itens com os quais você aparece ao entrar no jogo. Alguns deles exigem tempo de jogo para serem usados.
+Isso pode afetar a jogabilidade, já que certos itens de roupa possuem [color=#a4885c]proteção[/color] ou [color=#a4885c]reduzem a velocidade de movimento[/color], especialmente para membros da chefia ou segurança.
 
-Вы также можете выбрать, с какой сумкой вы появитесь.
-[color=#a4885c]Рюкзаки[/color] имеют средний размер, и в них легче переносить крупные предметы. [color=#a4885c]Сумки[/color] имеют больше места чем рюкзаки, но крупные предметы могут не поместиться. [color=#a4885c]Вещмешки[/color] - большие, но замедляют передвижение.
+Você também pode escolher com qual tipo de bolsa irá aparecer.
+[color=#a4885c]Mochilas[/color] têm tamanho médio e facilitam carregar itens grandes. [color=#a4885c]Bolsas[/color] têm mais espaço que mochilas, mas itens grandes podem não caber. [color=#a4885c]Sacolas[/color] são grandes, mas reduzem sua velocidade de movimento.
 
-## Антагонисты
-Согласившись стать [color=#a4885c]антагонистом[/color] вы попадёте в список потенциальных антагонистов раунда, и можете быть избраны им в начале раунда. Это не гарантирует что вы им станете, так что не используйте это как оправдание самоантагонизму!
-Как и в случае с приоритетами должностей, несколько игроков будут выбраны случайным образом из соответствующих требованиям желающих. Если вы являетесь членом командования или офицером СБ, антагонистом вы не станете.
+## Antagonistas
+Ao concordar em ser um [color=#a4885c]antagonista[/color], você entra para a lista de possíveis antagonistas da rodada e pode ser escolhido no início. Isso não garante que você será escolhido, então não use isso como desculpa para antagonizar por conta própria!
+Assim como com os cargos, vários jogadores serão escolhidos aleatoriamente entre os que atendem aos critérios. Se você for da chefia ou da segurança, não poderá ser um antagonista.
 
-[textlink="Для более подробной информации об антагонистах нажмите здесь." link="Antagonists"]
+[textlink="Clique aqui para mais informações sobre antagonistas." link="Antagonists"]
 
-Присоединение к нескольким играм или выход в призрака/отсоединение/самоубийство после того, как вас не выбрали на роль антага, считается антаг-роллингом (или рольхантингом) и противоречит правилам.
-Многие люди терпеливо ждут своей очереди стать антагонистами, поэтому [color=#a4885c]мы просим вас воздержаться от участия в роли антагониста, если вы не готовы[/color].
+Entrar em várias partidas ou virar fantasma/desconectar-se/suicidar-se depois de não ser escolhido como antagonista é considerado "antag rolling" (ou "role hunting") e vai contra as regras.
+Muitas pessoas esperam pacientemente sua vez de jogar como antagonistas, por isso [color=#a4885c]pedimos que você não ative essa opção se não estiver realmente preparado[/color].
 
-## Черты
-Черты речи изменяют вашу речь. Иногда сильно.
+## Traços
+Os traços de fala mudam a forma como seu personagem se comunica. Às vezes de forma bem marcante.
 
-Сюда входят:
-- Отсутствие акцента (отключает акцент выбранной вами расы)
-- Ковбойский акцент (замена слов, партнёр)
-- Сигматизм ("в" заменяется на "ф")
-- Итальянский акцент (Mamma-mia, замена слов)
-- Патологический лжец (замена слов, заменяет такие слова как "да" на "нет")
-- Пиратский акцент (Арггх, замена слов)
-- Социофобия (за-за-заикание)
-- Диалект юга США (заменяет "-ing" на "-in'" и подобное (работает только с английским))
+Eles incluem:
+- Sem sotaque (remove o sotaque da espécie escolhida)
+- Sotaque caipira (palavras trocadas, "parceiro")
+- Sigmatismo ("v" vira "f")
+- Sotaque italiano (Mamma-mia, troca de palavras)
+- Mentiroso patológico (inverte palavras como "sim" para "não")
+- Sotaque pirata (Arrgh, troca de palavras)
+- Fobia social (ga-ga-gagueira)
+- Dialeto do sul dos EUA (troca "-ing" por "-in'", funciona apenas em inglês)
 
-Вы должны хорошо ориентироваться в нормальной речи или с небольшим акцентом, таким как социофобия или южный акцент, прежде чем браться за тяжелые акценты, такие как итальянский или ковбойский.
+Você deve estar confortável com fala normal ou com sotaques leves, como fobia social ou dialeto sulista, antes de tentar sotaques mais pesados, como italiano ou caipira.
 
-Существуют также черты-ограничения. Прежде чем взять одну из них, ознакомьтесь с игровым процессом, так как с некоторыми из них новичкам будет сложно.
+Há também traços com restrições. Antes de escolher um deles, conheça bem o jogo, pois podem dificultar para iniciantes.
 
-Они включают:
-- Слепота (сильно ограничивает ваше зрение)
-- Быстрое опьянение (вы быстрее пьянеете и сильнее страдаете от плохого воздействия алкоголя)
-- Немота (вы не можете говорить или шептать, но можете общаться с помощью эмоций, ручки и бумаги)
-- Нарколепсия (вы случайно засыпаете в непредсказуемое и часто неудобное время)
-- Пацифизм (нельзя бить, стрелять или бросать в людей острые предметы)
-- Паракузия (иногда вы слышите звуки, которые не были реальными)
-- Близорукость (несколько ограничивает ваше зрение без очков)
-- Храп (вы издаете громкие храпящие звуки во время сна)
-- Невозрождаемость (вы не можете быть реанимированы после своевременной кончины)
+Incluem:
+- Cegueira (visão bastante limitada)
+- Intoxicação rápida (você se embriaga mais rápido e sofre mais com o álcool)
+- Mudez (você não pode falar ou sussurrar, mas pode usar gestos, caneta e papel)
+- Narcolepsia (você adormece de forma aleatória e inesperada)
+- Pacifismo (não pode bater, atirar ou arremessar objetos cortantes em pessoas)
+- Paracusia (você às vezes ouve sons que não existem)
+- Miopia (sua visão é levemente limitada sem óculos)
+- Ronco (você ronca alto ao dormir)
+- Não-revivível (você não pode ser ressuscitado após morte súbita)
 </Document>

@@ -1,87 +1,87 @@
 <Document>
-  # Разумная болезнь
-  
+  # Doença Inteligente
+
   <Box>
-    [color=#999999][italic]"Ты просто простудился... или они уже думают за тебя?"[/italic][/color]
+    [color=#999999][italic]"Você só pegou um resfriado... ou será que eles já estão pensando por você?"[/italic][/color]
   </Box>
   <Box>
     <GuideEntityEmbed Entity="MobDisease" Caption=""/>
   </Box>
-  
-  Разумная болезнь — это антагонист, способный заражать всех существ, а так-же передаваться, она имеет свойство "мутировать", у нее появляються разные симптомы, увеличиваеться летальность, заразность и устойчивость к лекартсвам. она легко распростроняеться если не принять необходимые меры.
-  
-  ## Основные симптомы
-  
-  Первыми отличимыми симптомами которые есть у каждой болезни, это головная боль и головокружение, так-же основной переносный симптом - кашель и чих.
-  
-  ## Передача
-  
-  Передача вируса происходит при кашле и чихе, если рядом с вами находиться зараженный и имеет упомянутые симптомы, вы имеете вероятность заразиться. Эта вероятность уменьшаеться при ношении защитных костюмов, масок и прочих средств.
-  
-  Однако, у болезни есть возможность заразить вас игнорируя упомянутые средства защиты, при этом она использует очки эволюции, что означает что вы в любом случае можете заболеть.
-  
-  ## Возможные симптомы
-  
-  Так-же кроме основных симптомов, у болезни есть перечень других, таких как:
 
-  - Непроизвольные слёзы(10 ОЭ)
+  A Doença Inteligente é um antagonista capaz de infectar todos os seres vivos, além de ser transmissível. Ela possui a capacidade de "mutar", ganhando novos sintomas, aumentando sua letalidade, contagiosidade e resistência a medicamentos. Ela se espalha facilmente se não forem tomadas as medidas necessárias.
+
+  ## Sintomas Iniciais
+
+  Os primeiros sintomas perceptíveis que toda doença possui são dor de cabeça e tontura. Os principais sintomas transmissíveis são tosse e espirros.
+
+  ## Transmissão
+
+  A transmissão do vírus ocorre pela tosse e espirros. Se um infectado estiver próximo de você e apresentar esses sintomas, há uma chance de você se infectar. Essa chance diminui com o uso de roupas de proteção, máscaras e outros equipamentos.
+
+  No entanto, a doença pode infectá-lo mesmo ignorando esses métodos de proteção, utilizando pontos de evolução — o que significa que, eventualmente, você pode acabar doente de qualquer forma.
+
+  ## Sintomas Possíveis
+
+  Além dos sintomas iniciais, a doença pode desenvolver outros sintomas, como:
+
+  - Lágrimas Involuntárias (10 PE)
   <Box>
-  [color=#999999][italic]У заражённых активно слезяться глаза, из-за чего кажется, что они плачут.[/italic][/color]
+  [color=#999999][italic]Os infectados lacrimejam constantemente, parecendo estar chorando.[/italic][/color]
   </Box>
-  
-  - Изнеможение(15 ОЭ)
+
+  - Exaustão (15 PE)
   <Box>
-  [color=#999999][italic]Вирус вызывает разрушение мышечных волокон, приводящее к атрофие и сопровождающееся слабостью. Снижает общую мобильность[/italic][/color]
+  [color=#999999][italic]O vírus provoca destruição das fibras musculares, levando à atrofia e fraqueza. Reduz a mobilidade geral.[/italic][/color]
   </Box>
-  
-  - Сонливость(20 ОЭ)
+
+  - Sonolência (20 PE)
   <Box>
-  [color=#999999][italic]У заражённых появляется постоянное желание спать, с которым они иногда не могут справиться.[/italic][/color]
+  [color=#999999][italic]Os infectados sentem um desejo constante de dormir, o qual às vezes não conseguem resistir.[/italic][/color]
   </Box>
-  
-  - Судороги(20 ОЭ)
+
+  - Convulsões (20 PE)
   <Box>
-  [color=#999999][italic]Длительная болезнь вызывает гиперстимуляцию двигательных нейронов, в результате чего больные могут испытывать перенапряжение мышц, приводящие к судорогам.[/italic][/color]
+  [color=#999999][italic]A infecção prolongada hiperestimula os neurônios motores, resultando em tensão muscular que leva a convulsões.[/italic][/color]
   </Box>
-  
-  - Немота(25 ОЭ)
+
+  - Mudez (25 PE)
   <Box>
-  [color=#999999][italic]Мутация вызывает повреждение подъязычного нерва, приводя к параличу мышц языка, из-за чего больные теряют возможность нормально говорить.[/italic][/color]
+  [color=#999999][italic]A mutação afeta o nervo hipoglosso, causando paralisia da língua e perda da fala.[/italic][/color]
   </Box>
-  
-  - Тошнота(25 ОЭ)
+
+  - Náusea (25 PE)
   <Box>
-  [color=#999999][italic]Заражённых начинает тоншить, вызывая рвоту.[/italic][/color]
+  [color=#999999][italic]Os infectados passam a sentir enjoo, resultando em vômito.[/italic][/color]
   </Box>
-  
-  - Кровопотеря(30 ОЭ)
+
+  - Perda de Sangue (30 PE)
   <Box>
-  [color=#999999][italic]Вирус вызывает денатурацию гемоглобина крови, из-за чего у всех носителей появляется тяжелая степень анемии.[/italic][/color]
+  [color=#999999][italic]O vírus provoca desnaturação da hemoglobina, levando à anemia severa em todos os infectados.[/italic][/color]
   </Box>
-  
-  - Слепота(40 ОЭ)
+
+  - Cegueira (40 PE)
   <Box>
-  [color=#999999][italic]Длительная болезнь приводит к отмиранию зрительного нерва, что приводит к практически полной слепоте больного.[/italic][/color]
+  [color=#999999][italic]A infecção prolongada causa a morte do nervo óptico, resultando em quase completa cegueira do paciente.[/italic][/color]
   </Box>
-  
-  ## Базовые противодействия
-  
-  Если вы заметили что у вас появились какие-то из симптом, не стоит сразу бежать в вирусологию, но стоит принять минимальные меры, носить маску, избегать контакта с персоналом.
-  
-  Если же у вас обноружилось 2 и более семптома, например кашель, головная боль и изнеможение, немедленно отправьтесь в медецинский отдел а так-же оповестите врача о том что вы вероятно заражены.
-  
-  ## Вакцина
-  
-  Для создания вакцины необходима пробирка, шприц, здоровый человек, заражённый человек и вакцинатор, делаем всё строго в последовательности:
-  
-  - Набираем кровь заражённого человека в пробирку
-  
-  - Вставляем пробирку в вакцинатор
-  
-  - Получаем бумажку, с указаниями для создания вакцины.
-  
-  - Делаем всё как указано на листочке.
-  
-  Готово, вы получили вакцину.
+
+  ## Contra-Medidas Básicas
+
+  Se você perceber que está com alguns dos sintomas, não é necessário correr imediatamente para a virologia, mas deve tomar medidas mínimas como usar máscara e evitar contato com outros funcionários.
+
+  Se apresentar 2 ou mais sintomas — como tosse, dor de cabeça e exaustão — vá imediatamente ao setor médico e informe ao médico que você pode estar infectado.
+
+  ## Vacina
+
+  Para criar uma vacina, são necessários um tubo de ensaio, uma seringa, uma pessoa saudável, uma pessoa infectada e um vacinador. Siga estritamente a sequência:
+
+  - Coletar sangue da pessoa infectada com o tubo de ensaio
+
+  - Inserir o tubo no vacinador
+
+  - Receber um papel com as instruções para criar a vacina
+
+  - Seguir exatamente as instruções no papel
+
+  Pronto, a vacina foi criada.
 
 </Document>

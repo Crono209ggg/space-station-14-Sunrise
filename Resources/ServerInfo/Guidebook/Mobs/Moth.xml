@@ -1,17 +1,17 @@
 <Document>
-  # Нианы
+  # Moths
 
   <Box>
     <GuideEntityEmbed Entity="MobMoth" Caption=""/>
   </Box>
 
-  Нианы (моли) – это раса инсектоидно-подобных существ с планеты СНН, отдалённо напоминающих земную моль. Обладают достаточно необычной и от того приятной человеческому глазу внешностью, хотя кого-то она может ввергать в шок. Они могут есть хлопок, ткани и одежду, но практически никакую другую пищу, которую остальные расы считают "съедобной". 
-  Их крылья обеспечивают лучшее ускорение, если на станции нет гравитации, но они все равно не могут свободно перемещаться в открытом космосе.
+  Moths (mariposas) são uma raça de seres semelhantes a insetoides do planeta CHH, vagamente lembrando mariposas terrestres. Eles possuem uma aparência suficientemente incomum e, por isso, agradável aos olhos humanos — embora alguns possam achá-la chocante. Podem comer algodão, tecidos e roupas, mas praticamente nenhum outro alimento que as demais raças consideram “comestível”.  
+  Suas asas oferecem melhor aceleração na ausência de gravidade na estação, mas mesmo assim eles não conseguem se mover livremente no espaço aberto.
 
-  ## Расовые особенности
-  - Получают [color=#ffa500]на 30% больше урона огнём[/color], но [color=#1e90ff]на 30% меньше урона холодом[/color].
-  - Имеют отличимый от других рас порог температуры. При низкой температуре получают [color=red]0.05[/color] холода в секунду; При высокой температуре получают [color=red]0.2[/color] ожогов в секунду.
-  - Могут издавать звуки, похожие на чириканье (эмоция: чирикает).
-  - Конечности при перемолке выдадут жир и кровь.
-  - При разделке на крюке вы получите обычное мясо.
+  ## Características Raciais
+  - Recebem [color=#ffa500]30% mais dano por fogo[/color], mas [color=#1e90ff]30% menos dano por frio[/color].
+  - Possuem um limiar de temperatura diferente de outras raças. Em temperaturas baixas recebem [color=red]0.05[/color] de frio por segundo; em altas temperaturas recebem [color=red]0.2[/color] de queimaduras por segundo.
+  - Podem emitir sons semelhantes a chilrear (emoção: chilreia).
+  - Membros triturados resultam em gordura e sangue.
+  - Ao serem abatidos no gancho, fornecem carne comum.
 </Document>

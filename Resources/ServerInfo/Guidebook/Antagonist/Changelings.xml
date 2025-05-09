@@ -1,63 +1,64 @@
 <Document>
-  # Генокрад
+  # Metamorfo
+
   <Box>
     <GuideEntityEmbed Entity="GuidebookChangelingFluff" Caption=""/>
   </Box>
-  Генокрад — это разумное инопланетное существо, способное принимать человеческий облик. Генокрады - это инопланетяне в форме головной слизи, но до начала смены они либо превращаются в кого-то, когда они находятся вне станции, либо они каким-то образом убивают кого-то и превращаются в генокрада неизвестным образом.
-  Главным оружием генокрада является его способность внутренне синтезировать опасные химические вещества, превращаться в других существ, которых он поглотил, и сливаться с людьми.
+  O Metamorfo é uma criatura alienígena inteligente capaz de assumir a forma humana. Os Metamorfo são alienígenas na forma de uma substância viscosa, mas antes de assumir sua forma, ou se transformam em alguém quando estão fora da estação, ou de alguma forma matam alguém e se transformam em Metamorfos de maneira desconhecida.
 
-  Генокрад может быть любым из тех, кого он поглотил, он может мгновенно менять личность, только процесс поглощения требует времени и покоя. В отличие от предателя, единственная цель генокрада — выжить до прибытия шаттла и сбежать на нем, приняв чей-то другой облик.
+  A principal arma do Metamorfo é sua capacidade de sintetizar quimicamente substâncias perigosas internamente, se transformar em outras criaturas que ele absorveu e se fundir com os seres humanos.
 
-  Помните, что генокрады не обязаны работать в команде, и некоторые из них могут действовать в одиночку/стать одиночками, в зависимости от их предпочтений.
+  O Metamorfo pode ser qualquer um daqueles que ele absorveu, podendo mudar instantaneamente sua identidade, embora o processo de absorção exija tempo e descanso. Ao contrário de um traidor, o único objetivo do Metamorfo é sobreviver até a chegada da cápsula de resgate e fugir nela, assumindo outra forma.
+
+  Lembre-se de que os Metamorfos não precisam trabalhar em equipe, e alguns podem agir sozinhos ou se tornarem solitários, dependendo de suas preferências.
   \n
 
-  ## Я превратился в самого себя, что делать?
-  \n  
+  ## Eu me transformei em mim mesmo, o que fazer?
+  \n
   
-  ## Химикаты
-  Химикаты — это источник ваших способностей. Без них вы не сможете использовать свои силы.
-  Они медленно восстанавливаются со временем, а поглощение увеличит их максимальную емкость.
+  ## Químicos
+  Os químicos são a fonte de seus poderes. Sem eles, você não poderá usar suas habilidades.
+  Eles se recuperam lentamente ao longo do tempo, e a absorção aumenta sua capacidade máxima.
 
-  ## Биомасса
-  Ваша биомасса — это ваше здоровье. В начале у вас есть 30 единиц биомассы. Вы тратите 1 единицу биомассы каждую минуту, а поглощение полностью восстанавливает её.
-  Когда уровень вашей биомассы становится слишком низким, последствия вашего разложения станут заметны для экипажа, такие как:
-  - Рвота кровью
-  - Сильная дрожь
-  - Смерть.
-  Вы не можете умереть обычным способом, например, от тупой травмы, но ваша биомасса медленно истощается, и если вы не успеете поглотить кого-то до того, как она закончится, игра будет окончена.
+  ## Biomassa
+  Sua biomassa é sua saúde. No início, você tem 30 unidades de biomassa. Você gasta 1 unidade de biomassa a cada minuto, e a absorção a restaura completamente.
+  Quando o nível de biomassa se torna muito baixo, as consequências de sua decomposição se tornam visíveis para a tripulação, como:
+  - Vômito com sangue
+  - Tremores fortes
+  - Morte.
+  Você não pode morrer de maneiras comuns, como ferimentos contundentes, mas sua biomassa se esgota lentamente e, se você não conseguir absorver alguém antes que ela acabe, o jogo terminará.
 
-  ## Поглощение ДНК
-  Ваше главное оружие — это обман. Превращайтесь в других гуманоидных существ, чтобы запутать экипаж.
-  Для этого необходимо взять ЛЮБОГО человека, живого или мёртвого (даже выброшенные тела из клонирования), и поглотить его, используя способность "Absorb" или "DNA Extraction Sting".
-  Вы можете иметь максимум 5 нитей ДНК одновременно и должны трансформироваться, чтобы получить больше.
+  ## Absorção de DNA
+  Sua principal arma é a enganação. Transforme-se em outros seres humanoides para confundir a tripulação.
+  Para isso, é necessário pegar QUALQUER pessoa, viva ou morta (inclusive corpos descartados de clonagem), e absorvê-la usando a habilidade "Absorver" ou "Picada de Extração de DNA".
+  Você pode ter no máximo 5 fios de DNA ao mesmo tempo e deve se transformar para obter mais.
 
-  Поглощение ДНК требует, чтобы жертва была недееспособной, находилась в критическом состоянии или была мертва. Просто наденьте наручники, доведите до критического состояния или убейте, если необходимо поглотить жертву.
+  A absorção de DNA exige que a vítima esteja incapaz de se mover, em estado crítico ou já morta. Basta colocar algemas, levar ao estado crítico ou matar, caso necessário, para absorver a vítima.
 
-  - Поглощение кого-либо занимает много времени, так что подготовьте безопасное место или сделайте это там, где как можно меньше ушей.
-  - Поглощение жертвы полностью восстанавливает вашу биомассу, увеличивает максимальную ёмкость химикатов и даёт бонусные очки эволюции для покупки новых способностей.
-  - Поглощение другого генокрада, помимо прочего, увеличивает максимальную ёмкость биомассы, позволяя вам дольше оставаться в живых, а также даёт вам ещё больше химикатов и очков эволюции.
-  - [color=red]Поглощенные жертвы не могут быть клонированы.[/color] С другой стороны, их всё ещё можно превратить в киборгов.
+  - A absorção de alguém leva um bom tempo, então prepare um local seguro ou faça isso em um lugar onde haja o menor número possível de ouvintes.
+  - A absorção de uma vítima restaura completamente sua biomassa, aumenta a capacidade máxima de químicos e concede pontos de evolução extras para adquirir novas habilidades.
+  - Absorver outro Metamorfo, entre outras coisas, aumenta a capacidade máxima de biomassa, permitindo que você permaneça vivo por mais tempo, além de dar mais químicos e pontos de evolução.
+  - [color=red]As vítimas absorvidas não podem ser clonadas.[/color] No entanto, ainda podem ser transformadas em ciborgues.
 
-  ## Вы восклицаете: "Я здесь единственный!"
-  Генокрады ограничены тем, сколько ДНК они могут поглотить одновременно! Если генокрад имеет 5 сохранённых нитей ДНК и пытается получить ещё одну, он должен избавиться от старой ДНК путём трансформации. В конце концов, любой генокрад будет вынужден стать двойником кого-то ещё на станции, живого или мёртвого.
-  Генокрад может изменить свою внешность, заставляя его выглядеть и звучать точно так же, как жертва, которую он поглотил. Это может быть огромной угрозой для безопасности, особенно если командный состав поглощён, и генокрад способен их имитировать.
-  Генокрады также могут, используя способность "Lesser Form", превратиться в обезьян и заниматься обезьяньими делами.
+  ## Você exclama: "Eu sou o único aqui!"
+  Metamorfo são limitados pela quantidade de DNA que podem absorver ao mesmo tempo! Se um Metamorfo tiver 5 fios de DNA salvos e tentar obter mais um, ele deve se livrar de um DNA antigo transformando-se. No final, todo Metamorfo será forçado a se tornar um "imitador" de alguém na estação, seja vivo ou morto.
+  O Metamorfo pode mudar sua aparência para parecer e soar exatamente como a vítima que ele absorveu. Isso pode ser uma grande ameaça à segurança, especialmente se a equipe inteira for absorvida e o Metamorfo puder imitá-los.
+  Metamorfos também podem, usando a habilidade "Forma Inferior", se transformar em macacos e realizar atividades de macaco.
 
-  
-  ## Регенерация
-  Также известная как "Регенеративная стазис", генокрады обладают способностью "убить" себя и выглядеть мёртвыми. Через неопределённое время генокрад может воскреснуть по своему желанию, полностью излечив все раны и болезни.
-  Вход в стазис истощает все химикаты генокрада, а выход стоит 60. Химикаты будут продолжать восстанавливаться, пока генокрад мёртв, что означает, что он всегда может войти в стазис, если его уровень биомассы не является критическим.
+  ## Regeneração
+  Também conhecida como "Estase Regenerativa", os Metamorfos têm a capacidade de "matar" a si mesmos e parecer mortos. Após um tempo indefinido, o Metamorfo pode se ressuscitar por vontade própria, curando completamente todas as feridas e doenças.
+  A entrada na estase consome todos os químicos do Metamorfo, e a saída custa 60. Os químicos continuarão a se recuperar enquanto o Metamorfo estiver "morto", o que significa que ele sempre pode entrar em estase se seu nível de biomassa não for crítico.
 
-  Генокрады также могут выбрать возрождение с помощью дефибриллятора, что делает их ещё труднее распознать.
+  Metamorfos também podem optar pela ressurreição com o uso de um desfibrilador, o que os torna ainda mais difíceis de identificar.
 
-  Это делает их почти неуязвимыми, так как они могут полностью регенерироваться даже из состояния смерти, если у них достаточно химикатов. Выброшенные в космос генокрады также могут вернуться на станцию, если им дать достаточно времени. Лучший способ навсегда избавиться от генокрада — это заставить его умереть от голода, отправив его на шахты или в одиночное заключение.
+  Isso os torna quase invulneráveis, já que eles podem se regenerar completamente, até mesmo de um estado de morte, se tiverem químicos suficientes. Metamorfos lançados no espaço também podem retornar à estação, se lhes derem tempo suficiente. A melhor forma de se livrar de um Metamorfo para sempre é deixá-lo morrer de fome, enviando-o para as minas ou para confinamento solitário.
 
-  ## Действовать в одиночку или в команде
-  Как и предатели, генокрады действуют индивидуально и не обязаны помогать друг другу. Генокрадам не требуется даже раскрывать свою личность друг другу, так как не редкость, когда генокрады предают друг друга, чтобы устранить конкуренцию.
-  Тем не менее, [color=red]согласованная группа генокрадов — это настоящая угроза[/color].
+  ## Agir Sozinho ou em Equipe
+  Assim como os traidores, os Metamorfos agem individualmente e não são obrigados a ajudar uns aos outros. Metamorfos não precisam nem revelar suas identidades uns aos outros, pois não é raro que Metamorfos se traiam para eliminar a concorrência.
+  No entanto, [color=red]um grupo coordenado de Metamorfos é uma verdadeira ameaça[/color].
 
-  # Идентификация генокрада
-  У генокрадов отличается группа крови. Даже если генокрад притворяется дионой, воксом или мотыльком, у него есть одна группа крови.
-  Также при помещении в центрифугу кровь генокрада реагирует бурно.
-  Вы не можете идентифицировать генокрада никаким другим способом, если только он не начинает вести себя явно подозрительно.
+  # Identificação de Metamorfo
+  Metamorfos possuem um tipo de sangue diferente. Mesmo que um Metamorfo se disfarce de diona, vox ou borboleta, ele ainda terá um tipo de sangue específico.
+  Também, ao ser colocado em uma centrífuga, o sangue do Metamorfo reage de maneira intensa.
+  Não há como identificar um Metamorfo de outra maneira, a não ser que ele comece a se comportar de forma suspeita.
 </Document>

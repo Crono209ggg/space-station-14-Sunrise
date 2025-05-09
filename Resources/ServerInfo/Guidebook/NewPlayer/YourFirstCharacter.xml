@@ -1,54 +1,55 @@
 <Document>
-# Капитаны и клоуны
-Это руководство по редактированию внешности вашего персонажа. Сначала обязательно прочитайте "Создание персонажа".
-При создании персонажа вы можете быть напуганы огромным количеством возможностей.
-  
-Вполне нормально сделать своего первого персонажа [color=#a4885c]случайным[/color] и начать с ним играть, так поступают даже опытные игроки.
-Создание первого персонажа также не обязательно должно быть точным. Вы можете [color=#a4885c]сымпровизировать[/color] и посмотреть, что получится.
-  
-Если вы предпочитаете [color=#a4885c]методичный[/color] подход, то персонажа легко создать пошагово.
+# Capitães e Palhaços
+Este é um guia para editar a aparência do seu personagem. Certifique-se de ler primeiro "Criação de personagem".
+Ao criar seu personagem, você pode se sentir sobrecarregado com a quantidade de opções disponíveis.
 
-## Выбор расы
-У большинства рас есть небольшие различия, о которых вы можете прочитать в разделе [color=#a4885c]Расы[/color].
-Однако вы можете обнаружить, что вам проще создать своего первого персонажа в виде человека, ниана, дворфа или унатха.
+É totalmente normal fazer seu primeiro personagem [color=#a4885c]aleatoriamente[/color] e sair jogando — até mesmo jogadores experientes fazem isso.
+Seu primeiro personagem também não precisa ser perfeito. Você pode [color=#a4885c]improvisar[/color] e ver no que dá.
 
-Однако это не должно отбить у вас желание творчески подойти к созданию своего персонажа.
+Se preferir um método mais [color=#a4885c]metódico[/color], é fácil criar um personagem passo a passo.
 
-В этом руководстве предполагается, что вы создаете человека, но процесс похож для всех видов.
+## Escolha da espécie
+A maioria das espécies tem pequenas diferenças, que você pode ler na seção [color=#a4885c]Espécies[/color].
+Ainda assim, pode ser mais fácil criar seu primeiro personagem como humano, nyan, anão ou unathi.
 
-## Незначительные характеристики
-Они включают:
-- Возраст (18-29 для молодых, 30-59 для средних, 60+ для старых)
-- Пол (ваш спрайт, который можно увидеть, переключив "Показать одежду")
-- Местоимения (то, как игра будет обращаться к вам)
-- Цвет кожи (может быть ползунком или RGB в зависимости от вида)
-- Цвет глаз (RGB)
-- Цвет волос (RGB)
+Mas isso não deve te impedir de usar a criatividade na hora de criar seu personagem.
 
-Это незначительные изменения, которые мало влияют на игровой процесс. Это то, что игроки будут читать, когда будут [color=#a4885c]осматривать вас[/color]. ("человек молодого возраста")
+Este guia assume que você está criando um humano, mas o processo é semelhante para todas as espécies.
 
-## Волосы и лицевая растительность
-И снова вас может испугать огромное количество вариантов. Это нормально.
+## Características menores
+Incluem:
+- Idade (18–29 para jovens, 30–59 para adultos, 60+ para idosos)
+- Gênero (define o sprite, visível ao ativar “Mostrar roupas”)
+- Pronomes (como o jogo se referirá a você)
+- Cor da pele (slider ou RGB, depende da espécie)
+- Cor dos olhos (RGB)
+- Cor do cabelo (RGB)
 
-[color=#a4885c]Не торопитесь с этим.[/color] Вы можете просмотреть или щелкнуть по каждому из вариантов и найти тот, который вам нравится.
-Иногда проще установить желаемый цвет волос, прежде чем просматривать варианты.
+Essas são alterações menores que têm pouco impacto no jogo. São coisas que os outros jogadores verão ao [color=#a4885c]examinar você[/color]. ("humano jovem")
 
-Если вы не можете определиться с выбором, некоторые популярные варианты стрижек включают в себя "Небрежная", "Современная", "Деловая", "ЦРУ" или просто "Лысый".
-Как вариант, [color=#a4885c]сгенерируйте[/color] отдельного персонажа и посмотрите, с какими стрижками он ходит. Удивите себя.
+## Cabelo e pelos faciais
+Novamente, a variedade pode parecer assustadora. Está tudo bem.
 
-Однако не чувствуйте себя обязаннымы использовать какую-либо из них.
-  
-## Черты внешности
-Черты внешности варьируются от [color=#a4885c]шрамов и мордочек[/color] до [color=#a4885c]татуировок и хвостов[/color].
-Думайте о них как об [color=#a4885c]аксессуарах[/color], которые являются частью вашего тела и придают вашему персонажу дополнительную изюминку и уникальность. Они не могут быть изменены в течение раунда.
+[color=#a4885c]Não tenha pressa.[/color] Você pode navegar por cada opção e escolher o que gostar.
+Às vezes é melhor definir a cor do cabelo antes de escolher o estilo.
 
-Некоторые виды имеют больше возможностей для черт, чем другие. Люди более ограничены в плане внешности, чем нианы или унатхи.
+Se não souber o que escolher, alguns estilos populares incluem "Bagunçado", "Moderno", "Executivo", "CIA" ou simplesmente "Careca".
+Outra ideia é [color=#a4885c]gerar[/color] um personagem aleatório e ver que cortes ele tem. Deixe-se surpreender.
 
-Вы можете иметь определённое количество черт в каждой '[color=#a4885c]категории[/color]', как видно вверху. Например, у унатхов может быть одна метка на груди, но две метки на макушке головы.
-Они носят [color=#a4885c]косметический[/color] характер и не влияют на игровой процесс.
+Mas não se sinta obrigado a seguir essas sugestões.
 
-## Как выделиться
-Запоминающимися персонажей обычно делает их индивидуальность, поступки и [color=#a4885c]робастность[/color], но это не значит, что вы должны быть каким-то зазнайкой.
+## Traços físicos
+Os traços físicos variam de [color=#a4885c]cicatrizes e focinhos[/color] até [color=#a4885c]tatuagens e caudas[/color].
+Pense neles como [color=#a4885c]acessórios[/color] naturais que dão um toque especial e único ao seu personagem. Eles não podem ser alterados durante a rodada.
 
-Не стремитесь иметь большого, яркого и запоминающегося персонажа. Создайте свою собственную историю, которая запомнится вам надолго.
+Algumas espécies têm mais opções de traços do que outras. Humanos são mais limitados do que nyans ou unathi, por exemplo.
+
+Você pode ter uma certa quantidade de traços por '[color=#a4885c]categoria[/color]', como mostrado no topo da aba. Por exemplo, unathi podem ter uma marca no peito e duas na cabeça.
+Esses traços são [color=#a4885c]cosméticos[/color] e não afetam o gameplay.
+
+## Como se destacar
+O que torna um personagem memorável geralmente é sua personalidade, suas ações e sua [color=#a4885c]robustez[/color] — mas isso não quer dizer que você precise ser exibido.
+
+Não tente criar um personagem chamativo ou forçadamente memorável. Crie sua própria história, algo que será marcante para você.
+
 </Document>
